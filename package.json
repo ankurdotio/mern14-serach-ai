@@ -2,6 +2,7 @@
   "type": "module",
   "dependencies": {
     "@google/genai": "^1.15.0",
-    "@tavily/core": "^0.5.11"
+    "@tavily/core": "^0.5.11",
+    "dotenv": "^17.2.1"
   }
 }
